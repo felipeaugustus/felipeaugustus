@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/felipeaugustus/felipeaugustus/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/felipeaugustus/felipeaugustus/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
