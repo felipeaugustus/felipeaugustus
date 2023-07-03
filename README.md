@@ -48,7 +48,7 @@
 ###
 <br clear="both">
 
-[![Spotify](https://felipeaugustus.vercel.app/api/spotify)](https://open.spotify.com/user/zanoiner)
+[![Spotify](novatoremspotify-six.vercel.app)](https://open.spotify.com/user/zanoiner)
 
 
 
