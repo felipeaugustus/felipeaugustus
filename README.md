@@ -48,12 +48,6 @@
 ###
 <br clear="both">
 
-[![Spotify](novatoremspotify-six.vercel.app)](https://open.spotify.com/user/zanoiner)
-
-
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/felipeaugustus/count.svg?"  />
 </div>
