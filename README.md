@@ -1,6 +1,7 @@
 
 
 ###
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=felipeaugustus&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -8,7 +9,7 @@
 </div>
 
 ###
-
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo"  />
   <img width="12" />
@@ -28,7 +29,7 @@
 </div>
 
 ###
-
+###
 <div align="left">
   <a href="https://www.linkedin.com/in/felipe-adc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -44,10 +45,12 @@
 </div>
 
 ###
-
+###
 <br clear="both">
 
-![snake gif](https://github.com/felipeaugustus/felipeaugustus/blob/output/github-contribution-grid-snake.svg)
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/zanoiner)
+
+
 
 ###
 
